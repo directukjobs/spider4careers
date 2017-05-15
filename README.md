@@ -2,9 +2,13 @@
 Find any job/vacancy direct to employers without using recruiters (Private Jobs Search Engine)
 Join the hunt in finding jobs. Here you will find the newest versions of the software and instructions.
 
+Join the hunt in finding jobs. Here you will find the newest versions of the software and instructions.
+
 WARNING:
 
 This software is "USE AT OWN RISK" and "AS IS". Do not use this software for crime or other nasty stuff. There is a built in Anti-Virus but by no means does it mean it's safe. You are going to be scanning millions of untested and possibly unsafe websites. Make sure your Anti-Virus is up to date and you have backed up your computer. You could get a virus, you could see porn, you could see all sorts of nasty stuff. YOU ARE WARNED! In the next release, we will combine "GOOGLE SAFESURF". This software is on PROTOTYPE LEVEL meaning it's still in concept form and not even close to ALFA OR BETA Release. The are some parts of this program what have not been completed. There is ZERO support for this software. This software was only tested on windows 10. Anti-Virus software may report this software as a false positive and give no explanation as to why and what for.
+
+Warning on using captured EMAILS. The program can capture emails only when a match of the search algo was found. It will display the emails it found on the website. Before you use these emails you need to understand that some admins put fake emails out to catch spammers. For this reason, we don't recommend you use them and instead apply for jobs via the normal route. Its also always a good idea to only use an email address other than your normal one. Create a new email account on Google, Yahoo and apply for jobs in this manner. In case you get BLACKLISTED. If you are a recruiter or marketer use something like https://mailchimp.com/ to do marketing and again an email account other than your own. We been in two minds of giving this out and is strickly use at own risk. The reason its there is because from time to time, the web appliction service on some websites dont work. You been warned.
 
 This software was only tested on windows 10. Anti-Virus software may report this software as a false positive and give no explanation as to why and what for. To bypass it just send it to your vendor and report it as a false positive, windows defender may do the same thing. Add an exclusion in your anti-virus to allow this folder or click allow is all up to your own risk. If all else fails to search for the code on this site or on GitHub and run the script with AutoIT.
 
@@ -41,6 +45,8 @@ There are many other settings and tools in the menu and your best bet is if you 
 
 When a Career page is found. Another URL will open to POST A JOB here at DirectUKJobs. You can disable this in the menu when you click SHOW Post a Job On/Off
 
+When looking at the careers page on the website it might be difficult to find the links, a popup might show you some links it found based on the algo. Normally the vacancies and careers are in the MENU or Bottom of the webpage.
+
 Please use the Contact Us here for more info and recommendations.
 
 Things still to be done in this app.
@@ -60,7 +66,13 @@ This program is not new, a few years back I wrote shotgun CV program what blaste
 
 DOWNLOAD THE PROGRAM
 
-Spider4Careers
+Direct Download = Spider4Careers (Version 0)
+
+Package and Source on GitHub where It may be worked on.
+
+Alternative Download = https://github.com/directukjobs/spider4careers
+
+and here is the source code here too.... Nothing to hide   SourceCode (Version 0)
 
 Copy the entire folder to where you want to run this software from and double click on spider4careers.exe to start, This will create some files in the folder.
 
@@ -75,3 +87,9 @@ JobPackZA
 JobPackUSA
 
 and more
+
+
+
+If you wish to see the database get a database viewer at
+
+https://github.com/sqlitebrowser/sqlitebrowser/releases
